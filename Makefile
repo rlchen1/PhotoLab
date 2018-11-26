@@ -1,11 +1,4 @@
-######################################################################
-# Makefile: Makefile for Assignment #3 EECS22 Fall 2018
-#
-# 10/30/18 Mihnea Chirila: updated for EECS22 Assignment 3 Fall 2018
-#
-######################################################################
-
-
+# Makefile for PhotoLab
 # design names
 DESIGN = PhotoLab PhotoLabTest
 
