@@ -1,13 +1,4 @@
-/*********************************************************************/
-/* PhotoLab.c: homework assignment #3, for EECS 22,  Fall 2017       */
-/* Modified: Mihnea Chirila for F18, 10/30/18                                                          */
-/* Author: Mina Moghadam                                                */
-/* Date:   11/8/2017                                                */
-/*                                                                   */
-/* Comments: */
-/*                                                                   */
-/* Please use this template to submit your hw3.                      */
-/*********************************************************************/
+# Main function file for PhotoLab, modified template
 
 #include <stdio.h>
 #include <string.h>
