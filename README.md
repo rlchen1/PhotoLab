@@ -1,7 +1,6 @@
 # PhotoLab
-C program modules for pseudo-Photoshop with purpose of image manipulation
-The primary program PhotoLab.c utilizes a makefile to compile with all the other smaller modules of header files (.h) and c files (.c) 
-in order to make a cohesive program. 
+C program modules for pseudo-Photoshop program with purpose of image manipulation.
+The primary program file PhotoLab_v3.c utilizes a makefile to compile with the component modules consisting of header files (.h) and c files (.c) in order to produce a compilable, cohesive program. 
 
 The final program presents users with a menu, where selecting different number options will result in different image "filters" being 
-operated. FIlters currently range from black and white, edge detection, shuffling, brightness, mirroring, hue, rotate/flip, resizing, and saturation. These filters are modified using a structure and pointer system and applied to a loaded image where the image is saved to a website for viewing. 
+applied to a loaded image. Filters range from black and white, edge detection, shuffling, brightness, mirroring, hue, rotate/flip, resizing, and saturation. The filters utilize a data structure and pointer system, where the output image is saved to a website for viewing, accesible at https://bondi.eecs/uci/edu/~rlchen1/. 
