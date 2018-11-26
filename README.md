@@ -5,7 +5,7 @@ The primary program file PhotoLab_v3.c utilizes a makefile to compile with the c
 The final program presents users with a menu, where selecting different number options will result in different image "filters" being 
 applied to a loaded image. Filters range from black and white, edge detection, shuffling, brightness, mirroring, hue, rotate/flip, resizing, and saturation. The filters utilize a data structure and pointer system, where the output image is saved to a website for viewing, accesible at https://bondi.eecs/uci/edu/~rlchen1/. 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 The Advanced files contain C code for the brightness, mirror, hue, rotate/flip, resize, and saturation filters.
 
