@@ -7,6 +7,8 @@ applied to a loaded image. Filters range from black and white, edge detection, s
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+Individual file functions:
+
 The Advanced files contain C code for the brightness, mirror, hue, rotate/flip, resize, and saturation filters.
 
 The DIPs files contain C code for the basic digital image processing functions: black and white, edge detection, and shuffle.
